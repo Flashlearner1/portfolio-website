@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 html,
 body {
   padding: 0;
@@ -18,6 +19,8 @@ a {
 * {
   box-sizing: border-box;
 }
+=======
+>>>>>>> 65166b03879d5f45590055f3cc275e9451be2413
 @font-face {
   font-family: "burtons";
   src: url("../public/Burtons.otf");
